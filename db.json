@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+// :root{
+//     --mainDark:#343a40;
+//     --mainGrey:rgba(109,109,109);
+//     --mainLightGrey:rgba(172,172,172);
+//     --mainWhite:#fff;
+//     --mainBlue:#007bff;
+// }
